@@ -4,11 +4,11 @@
 
 ## 如何使用该环境
   ### 1. Clone project
-      $ git clone https://github.com/binkzhao/docker-php
+      $ git clone https://github.com/wth-abbey/docker-php.git
   
   ### 2. Rename env-example to .env
       $ cd cd docker-php
-      $ cp env-example .env
+      $ cp .env-example .env
   
   ### 4. Modify .env files
       such as `APPLICATION="your codes root directory"`
